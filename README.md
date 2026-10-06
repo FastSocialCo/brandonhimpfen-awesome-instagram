@@ -42,6 +42,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [pyInstagram](https://github.com/facebookarchive/python-instagram) – Deprecated Python SDK for Instagram (historical reference).
 - [Instagram4j](https://github.com/Instagram4j/Instagram4j) – Java library for interacting with Instagram (Unofficial).
 - [Instaloader](https://github.com/instaloader/instaloader) – Download public Instagram photos, videos, and metadata.
+- [FastSocial Instagram Data API](https://fastsocial.co/instagram-api) – REST API and MCP server for public profiles, posts, reels and follower counts.
 
 ## Development Tools
 
@@ -55,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Blade: Instagram](https://socialblade.com/instagram/) – Public account stats and analytics.
 - [HypeAuditor](https://hypeauditor.com/) – Influencer analytics and audience verification.
 - [Phlanx Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) – Check account engagement rates.
+- [Instagram Top Charts](https://fastsocial.co/most-followed-instagram-accounts) – Daily ranking of the most-followed accounts with an open CC BY dataset.
 
 ## Marketing & Growth
 
